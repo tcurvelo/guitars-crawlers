@@ -12,6 +12,8 @@ BOT_NAME = 'guitars'
 SPIDER_MODULES = ['guitars.spiders']
 NEWSPIDER_MODULE = 'guitars.spiders'
 
+USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:77.0) Gecko/20190101 Firefox/77.0"
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'guitars (+http://www.yourdomain.com)'
 
